@@ -1,0 +1,12 @@
+Python Utility Module - Sample Data File
+=====================================================
+Course: Level 1 Python Internship
+Milestone: Day 25 - Create a Python Utility Module
+Objective: Learn modular programming and code reuse
+Author: Python Intern
+Status: Ready for testing
+Language: Python 3
+Modules: utils.py, main.py
+Encoding: UTF-8
+=====================================================
+Modular programming helps write clean, maintainable, and reusable code.

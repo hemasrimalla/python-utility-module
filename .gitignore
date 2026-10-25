@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary demo and output files
+demo_output.txt
+temp_test_file.txt
+*.tmp
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
